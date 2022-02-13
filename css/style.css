@@ -1,0 +1,93 @@
+
+.clear {
+  clear: both;
+}
+.center{
+    width:1088px;
+    margin: 0 auto;
+}
+/* header */
+
+.header {
+  margin-top: 82px;
+  
+  margin-bottom: 50px;
+}
+h2 {
+  font-size: 14px;
+  line-height: 22px;
+  color: #5863f8;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+h5 {
+  width: 498px;
+  color: #000000;
+  line-height: 56px;
+  font-size: 42px;
+  font-weight: 800;
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-size: 18px;
+  color: #000000;
+  font-weight: 600;
+  line-height: 27px;
+
+  font-family: "Poppins", sans-serif;
+}
+p {
+  font-size: 14px;
+  color: #b1b1b1;
+  font-weight: 500;
+  line-height: 21px;
+
+  font-family: "Poppins", sans-serif;
+  margin-top: 10px;
+}
+.dis{
+    float: left;
+}
+.text {
+
+  margin-top: 10px;
+  width: 260px;
+}
+img {
+ 
+  margin-right: 16px;
+}
+
+.left-box,
+.right-box {
+  background-color: #f8f8f8;
+  float: left;
+  margin-right: 10px;
+}
+
+.down-box{
+    margin-top: 16px;
+}
+.down .text{
+ text-align: center;
+ margin-right: 0;
+ width: 352px;
+
+}
+.down img{
+    margin-right: 0;
+}
+.d {
+    margin-top: 16px;
+    margin-bottom: 87px;
+}
+
+.down{
+    margin-top: 90px;
+}
+.down h5{
+    margin-bottom: 50px;
+}
